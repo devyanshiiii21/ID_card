@@ -1,6 +1,6 @@
-# flutter_dummy
 
-A new Flutter project.
+
+## Another Dummy Flutter project.
 
 ## Getting Started
 
